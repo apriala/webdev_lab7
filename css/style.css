@@ -1,4 +1,8 @@
 td, th {
 	border: 1px solid;
   }
-  
+
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/028/544/535/large_2x/colorful-view-of-planets-and-stars-futuristic-background-free-photo.jpg");
+  background-size: cover;
+}
