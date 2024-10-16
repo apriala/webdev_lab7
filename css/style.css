@@ -1,8 +1,31 @@
 td, th {
-	border: 1px solid;
-  }
+  position: relative;
+  left: 455px;
+  top: 110px;
+  background-color: #00008B;
+  font-size: 1.5em;
+  font-family: 'Lucida Console', monospace;
+  border: 1px solid;
+  color: #FFFFFF;
+ }
 
 body {
   background-image: url("https://static.vecteezy.com/system/resources/previews/028/544/535/large_2x/colorful-view-of-planets-and-stars-futuristic-background-free-photo.jpg");
   background-size: cover;
+}
+
+h1 {
+  position: absolute;
+  left: 550px;
+  top: 10px;
+  font-size: 3em;
+  font-family: 'Lucida Console', monospace;
+  color: #ADD8E6;
+}
+
+planets {
+  left: 550px;
+  top: 10px;
+  font-size: 3em;
+  font-family: 'Lucida Console', monospace;
 }
